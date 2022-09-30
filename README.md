@@ -1,6 +1,10 @@
 # Sistema-de-Tradução
 Trabalho da disciplina de RP2
 
+<div align="center">
+ <img alt="jogos vorazes" height="200" width="500" src="https://media.giphy.com/media/UehcPssUfgQUM/giphy.gif">
+</div>
+
 <b> Integrantes: </b>
 
 <ul>
